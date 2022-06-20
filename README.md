@@ -1,5 +1,6 @@
 # dataset.gutenberg
-Dataset is retrieved from [Gutenberg](https://www.gutenberg.org/)
+Dataset is a copy of the data retrieved from [Gutenberg](https://www.gutenberg.org/)
+
 
 ## Foot note
 * 20-06-2022 : dataset repository created
